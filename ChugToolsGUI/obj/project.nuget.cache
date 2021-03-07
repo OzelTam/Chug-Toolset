@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4uF3/X69/LR6bj/ze5cyOseJCUZkgWnQvW2j/LyMfzrnW30oVsgnTmzNfwFu4zwkJJKKHi3qxpSN5bBMX77gCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\ChugToolset\\ChugToolsGUI\\ChugToolsGUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\htmlagilitypack\\1.11.30\\htmlagilitypack.1.11.30.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}
