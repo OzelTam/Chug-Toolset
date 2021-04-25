@@ -36,4 +36,4 @@
      - [ ] ~Bulk Instagram Messages~
 
 ## Comment
-**This is a hobby project of mine, I will visit and continue developing this project time to time but It's not my priority. Please feel free to improve it and mess with source code :smile:**
+**This is a hobby project of mine, I might visit and continue developing this project time to time but It's not my priority. Please feel free to improve it and mess with source code :smile:**
